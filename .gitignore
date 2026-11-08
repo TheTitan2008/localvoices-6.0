@@ -9,6 +9,7 @@ local.properties
 app/libs/*.aar
 third_party/whisper.cpp/
 third_party/llama.cpp/
+third_party/transcribe.cpp/
 models/
 *.iml
 __pycache__/
