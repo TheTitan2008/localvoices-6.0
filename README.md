@@ -40,6 +40,7 @@
 - [LIMITATIONS.md](LIMITATIONS.md) — ограничения и рекомендации.
 - [SUBMISSION.md](SUBMISSION.md) — состав сдаваемого решения.
 - [HACKATHON_SUBMISSION.md](HACKATHON_SUBMISSION.md) — готовый список материалов и ссылок для формы сдачи.
+- [ALL_ANSWERS.md](ALL_ANSWERS.md) — все основные ответы о решении в одном кратком файле.
 
 ## Сборка из исходников
 
