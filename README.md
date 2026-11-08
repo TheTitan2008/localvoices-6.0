@@ -39,6 +39,7 @@
 - [TEST_RESULTS.md](TEST_RESULTS.md) — результаты ручной проверки.
 - [LIMITATIONS.md](LIMITATIONS.md) — ограничения и рекомендации.
 - [SUBMISSION.md](SUBMISSION.md) — состав сдаваемого решения.
+- [HACKATHON_SUBMISSION.md](HACKATHON_SUBMISSION.md) — готовый список материалов и ссылок для формы сдачи.
 
 ## Сборка из исходников
 
