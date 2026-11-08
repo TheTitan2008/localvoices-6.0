@@ -24,7 +24,7 @@
    - **Диктофон:** «Новая запись» → начните и остановите запись → дождитесь обработки.
 4. Откройте расшифровку и при необходимости экспортируйте JSON.
 
-Подробности: [INSTALL.md](INSTALL.md). Материалы по шаблону: [docs/](docs/), [artifacts/](artifacts/), [src/](src/).
+Подробности: [INSTALL.md](INSTALL.md). Аннотация для проверяющего: [docs/PROJECT_ANNOTATION.md](docs/PROJECT_ANNOTATION.md). Материалы по шаблону: [docs/](docs/), [artifacts/](artifacts/), [src/](src/).
 
 ## Как проходит обработка
 
